@@ -1,5 +1,5 @@
 /*
-*@Author: Wilmord
+*@Author : Wilmord
 * @Date  : 22.01.2016
 * @Info  : This program takes two files as arguments and compare them
 *		   by calling Windows System's diff command.
